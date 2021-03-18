@@ -1,0 +1,23 @@
+2021-03-18 02:38:05 info: 🚀 App listening on the port 3000
+2021-03-18 02:38:34 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017.
+2021-03-18 02:42:25 info: 🚀 App listening on the port 3000
+2021-03-18 02:42:55 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017.
+2021-03-18 02:50:19 info: 🚀 App listening on the port 8080
+2021-03-18 02:50:49 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017.
+2021-03-18 02:54:40 info: 🚀 App listening on the port 8080
+2021-03-18 02:54:41 info: 🟢 The database is connected.
+2021-03-18 03:02:23 info: 🚀 App listening on the port 8080
+2021-03-18 03:02:25 info: 🟢 The database is connected.
+2021-03-18 03:03:50 info: 🚀 App listening on the port 8080
+2021-03-18 03:03:51 info: 🟢 The database is connected.
+2021-03-18 03:06:00 info: 🚀 App listening on the port 8080
+2021-03-18 03:06:00 info: 🟢 The database is connected.
+2021-03-18 03:07:07 info: 🚀 App listening on the port 8080
+2021-03-18 03:07:08 info: 🟢 The database is connected.
+2021-03-18 03:15:20 info: 🚀 App listening on the port 8080
+2021-03-18 03:15:23 info: 🟢 The database is connected.
+2021-03-18 03:17:36 info: 🚀 App listening on the port 8080
+2021-03-18 03:17:38 info: 🟢 The database is connected.
+2021-03-18 03:20:10 info: 🟢 The database is connected.
+2021-03-18 13:27:42 info: [0mGET / [32m200[0m 137.896 ms - 2[0m
+2021-03-18 13:27:50 info: [0mGET /HNAP1/ [33m404[0m 5.338 ms - 145[0m

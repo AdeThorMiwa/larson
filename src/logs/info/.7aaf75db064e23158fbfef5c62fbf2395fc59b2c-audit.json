@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\LENOVO\\Desktop\\Projects\\Mibiro\\mibiro-server\\src\\logs\\info\\.7aaf75db064e23158fbfef5c62fbf2395fc59b2c-audit.json",
+    "files": [
+        {
+            "date": 1616031418373,
+            "name": "C:\\Users\\LENOVO\\Desktop\\Projects\\Mibiro\\mibiro-server\\src\\logs\\info\\2021-03-18.log",
+            "hash": "dcbd84768396c8751086e158d778694d"
+        }
+    ]
+}

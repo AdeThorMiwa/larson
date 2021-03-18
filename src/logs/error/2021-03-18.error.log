@@ -1,0 +1,39 @@
+2021-03-18 02:38:34 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017.
+2021-03-18 02:42:55 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017.
+2021-03-18 02:50:49 error: 🔴 Unable to connect to the database: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017.
+2021-03-18 03:19:20 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1317:16)
+    at listenInCluster (net.js:1365:12)
+    at Server.listen (net.js:1451:7)
+    at Function.listen (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\src\app.ts:34:14)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\src\server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Module.m._compile (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at main (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\bin.ts:198:14)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\bin.ts:288:3)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+2021-03-18 03:20:09 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1317:16)
+    at listenInCluster (net.js:1365:12)
+    at Server.listen (net.js:1451:7)
+    at Function.listen (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\src\app.ts:34:14)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\src\server.ts:12:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Module.m._compile (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\index.ts:1056:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\index.ts:1059:12)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at main (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\bin.ts:198:14)
+    at Object.<anonymous> (C:\Users\LENOVO\Desktop\Projects\Mibiro\mibiro-server\node_modules\ts-node\src\bin.ts:288:3)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
